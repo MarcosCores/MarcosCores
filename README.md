@@ -1,4 +1,4 @@
-# Olá, Seja Bem Vindo ao meu perfil!! 👋
+# Olá, Seja Bem Vindo ao meu perfil!👋
 
 
 <img src ="https://www.flaticon.com/br/icone-animado-gratis/midia-social_6172532?related_id=6172532" width = "50" height= "50" />
@@ -12,3 +12,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MarcosCores&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
