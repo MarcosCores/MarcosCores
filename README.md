@@ -1,6 +1,6 @@
 ## _Olá, me chamo Marcos, Seja Bem Vindo(a) ao meu perfil!👋🏽_ 
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-marcoscores.github.io-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white)](https:)
+[![portifólio](https://img.shields.io/badge/portif%C3%B3lio-000000?style=for-the-badge&logo=github&logoColor=white)](https://marcoscores.github.io/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-cores)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/11972484618)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/m.viniix?igsh=MW44ZXBrbXJlNmppZA==)
