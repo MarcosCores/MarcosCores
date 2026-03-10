@@ -20,7 +20,10 @@ Meu objetivo é crescer constantemente e usar minhas habilidades para resolver p
 ### Linguagenm de programação que estou estudando em foco na graduação - ADS(1°Semestre): 
 
 <div>
-    <img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> - Fundamentos de Programação / Estrutura de Controle de Dados / Funções e Procedimentos / (POO).
+<a href="https://github.com/MarcosCores/GraduacaoTecnologaADS-Python">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</a>
+Fundamentos de Programação • Estrutura de Controle de Dados • Funções e Procedimentos • POO
 </div>
 
 ### Certificados 
