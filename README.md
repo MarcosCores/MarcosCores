@@ -27,19 +27,19 @@ Fundamentos de Programação • Estrutura de Controle de Dados • Funções e 
 </div>
 
 ### Certificados 
-[![URL1](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)]() <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK6lo4wKaXbjgiHdGWBvYs75jVxLbwp5bELixlTTSiC_0-ezZyXyIEI8F3fk7OnfFe_Z4&usqp=CAU" width="28" height="20"> _Desenvolvedor de Sistemas -  PROZ EDUCAÇÃO._ 
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK6lo4wKaXbjgiHdGWBvYs75jVxLbwp5bELixlTTSiC_0-ezZyXyIEI8F3fk7OnfFe_Z4&usqp=CAU" width="28" height="20"> _Desenvolvedor de Sistemas -  PROZ EDUCAÇÃO._ 
     
 
-[![URL1](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)]() <img src = "https://grandesnomesdapropaganda.com.br/wp-content/uploads/2018/11/Bradesco.jpg"  width="37" height="19"> _Primeiros Passos em Tecnologia (19 horas) - FUNDAÇÃO BRADESCO._
+<img src = "https://grandesnomesdapropaganda.com.br/wp-content/uploads/2018/11/Bradesco.jpg"  width="37" height="19"> _Primeiros Passos em Tecnologia (19 horas) - FUNDAÇÃO BRADESCO._
     
-[![URL1](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)]() <img src = "https://grandesnomesdapropaganda.com.br/wp-content/uploads/2018/11/Bradesco.jpg"  width="37" height="19"> _Fundamentos Lógica de Programação (15 horas) -  FUNDAÇÃO BRADESCO._
+<img src = "https://grandesnomesdapropaganda.com.br/wp-content/uploads/2018/11/Bradesco.jpg"  width="37" height="19"> _Fundamentos Lógica de Programação (15 horas) -  FUNDAÇÃO BRADESCO._
 
-[![URL1](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)]() <img src = "https://grandesnomesdapropaganda.com.br/wp-content/uploads/2018/11/Bradesco.jpg"  width="37" height="19"> _Fundamentos Lógica de TI: HARDWARE E SOFTWERE (7 horas) -  FUNDAÇÃO BRADESCO._
+<img src = "https://grandesnomesdapropaganda.com.br/wp-content/uploads/2018/11/Bradesco.jpg"  width="37" height="19"> _Fundamentos Lógica de TI: HARDWARE E SOFTWERE (7 horas) -  FUNDAÇÃO BRADESCO._
 
-[![URL1](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)]() <img src = "https://grandesnomesdapropaganda.com.br/wp-content/uploads/2018/11/Bradesco.jpg"  width="37" height="19"> _Introdução a Rede de Computadores (15 horas) -  FUNDAÇÃO BRADESCO._
+<img src = "https://grandesnomesdapropaganda.com.br/wp-content/uploads/2018/11/Bradesco.jpg"  width="37" height="19"> _Introdução a Rede de Computadores (15 horas) -  FUNDAÇÃO BRADESCO._
 
-[![URL1](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)]() <img src = "https://grandesnomesdapropaganda.com.br/wp-content/uploads/2018/11/Bradesco.jpg"  width="37" height="19"> _Letramento Digital (4 horas) -  FUNDAÇÃO BRADESCO._
+<img src = "https://grandesnomesdapropaganda.com.br/wp-content/uploads/2018/11/Bradesco.jpg"  width="37" height="19"> _Letramento Digital (4 horas) -  FUNDAÇÃO BRADESCO._
 
-[![URL1](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)]() <img src = "https://grandesnomesdapropaganda.com.br/wp-content/uploads/2018/11/Bradesco.jpg"  width="37" height="19"> _Cultura Digital (6 horas) -  FUNDAÇÃO BRADESCO._
+<img src = "https://grandesnomesdapropaganda.com.br/wp-content/uploads/2018/11/Bradesco.jpg"  width="37" height="19"> _Cultura Digital (6 horas) -  FUNDAÇÃO BRADESCO._
 
-[![URL1](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)]() <img src = "https://grandesnomesdapropaganda.com.br/wp-content/uploads/2018/11/Bradesco.jpg"  width="37" height="19"> _SHAREPOINT (2 horas) -  FUNDAÇÃO BRADESCO._
+<img src = "https://grandesnomesdapropaganda.com.br/wp-content/uploads/2018/11/Bradesco.jpg"  width="37" height="19"> _SHAREPOINT (2 horas) -  FUNDAÇÃO BRADESCO._
