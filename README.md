@@ -8,7 +8,7 @@
 
 ###    Sobre mim
 
-➡️ Cursando - Graduação Tecnóloga (Análise e Desenvolvimento de Sistemas) - Faculdade Anhanguera.
+➡️ Cursando - Graduação Tecnóloga (Desenvolvimento de Software Multiplataforma) - Fatec Osasco.
 
 ✅ Concluído - Ensino Técnico (Desenvolvimento de Sistemas) - Proz Educação.
 
